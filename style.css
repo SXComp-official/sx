@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+
+.siteinfo {
+  background-color: #96b5a8;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+body {
+  background-color: #a7c4b8;
+}
+
+.site{
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  margin-top: 50px;
+  background-color: #b6d9ca;
+  
+}
+
+.button {
+  background-color: #84e0b9; /* Колір фону кнопки */
+  border: none; /* Без рамки */
+  color: white; /* Колір тексту на кнопці */
+  padding: 15px 32px; /* Відступи внутрішні */
+  text-align: center; /* Вирівнювання тексту по центру */
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s; /* Тривалість ефекту при наведенні */
+  cursor: pointer;
+  border-radius: 25px; /* Закруглені кути кнопки */
+}
+
+.button:hover {
+  background-color: #3e8e41; /* Колір фону кнопки при наведенні */
+}
+
+footer {
+  font-family: 'Oswald', sans-serif;
+  background-color: #96b5a8;
+  text-align: center;
+  margin-top: 50px;
+  
+}
+
+.info {
+  font-family: 'Oswald', sans-serif;
+  background-color: #a3b8af;
+  text-align: center;
+  margin-top: 50px;
+  
+}
+
+.devinfo {
+  font-family: 'Oswald', sans-serif;
+  background-color: #a3b8af;
+  text-align: center;
+  margin-top: 50px;
+  
+}
